@@ -4,8 +4,7 @@ This code is created to combine the use of physical house switches and automated
 There are 2 switches, one is with two status: ON - OFF, one is just a trigger, so there is not ON and OFF but only TRIGGER.
 
 Go to webpage.h and replace "SWITCH SCRIVANIA" at line 87 and 95 with your custom switch name!
-
-
+# !!!Default password is "fibonacci"
 # Features
 - Alexa integration
 - Synchronized status on one switch
